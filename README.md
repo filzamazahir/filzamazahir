@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am Filza. I’m currently working on some cool data science and machine learning projects so I can enhance my skills further.
+
 <!--
 **filzamazahir/filzamazahir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
