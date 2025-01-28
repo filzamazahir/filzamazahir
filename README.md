@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Filza. I’m currently working on some cool data science and machine learning projects so I can enhance my skills further.
+I am Filza. I’m currently working on some cool data science and machine learning projects so I can enhance my skills further. I would love to collaborate on any cool machine learning projects you may be working on.
 
 <!--
 **filzamazahir/filzamazahir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
